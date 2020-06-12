@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">32ddbcd6db911010ede47b823996198e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>adf</hint>
+        <homepage/>
+        <image/>
+        <link_type>SEARCH</link_type>
+        <map_page/>
+        <mobile_title>Asdf</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>a,c,b</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 07:40:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3162022dbdd1010ede47b8239961938</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Asdf</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_b3162022dbdd1010ede47b8239961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 09:58:18</sys_updated_on>
+        <timeline_page/>
+        <title>Asdf</title>
+        <uncancelable>false</uncancelable>
+        <view_name>hahahaha</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4de2acc1db3cb780f492c597059619c9</instance_id>
+        <instance_name>dev80422</instance_name>
+        <name>sys_app_module_b3162022dbdd1010ede47b8239961938</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">32ddbcd6db911010ede47b823996198e</application><assessment/><device_type/><filter/><hint>adf</hint><homepage/><image/><link_type>SEARCH</link_type><map_page/><mobile_title>Asdf</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>1</order><override_menu_roles>false</override_menu_roles><query>a,c,b</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-12 07:40:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b3162022dbdd1010ede47b8239961938</sys_id><sys_mod_count>11</sys_mod_count><sys_name>Asdf</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_b3162022dbdd1010ede47b8239961938</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-12 09:58:18</sys_updated_on><timeline_page/><title>Asdf</title><uncancelable>false</uncancelable><view_name>hahahaha</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-881306756</payload_hash>
+        <record_name>Asdf</record_name>
+        <reverted_from/>
+        <source>dc45305edb511010ede47b82399619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 09:58:18</sys_created_on>
+        <sys_id>a9e5c16edb115010ede47b823996197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172a7f73f6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 09:58:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>25e5c16e4d1150106c0f1720cef3bb7a</update_guid>
+        <update_guid_history>25e5c16e4d1150106c0f1720cef3bb7a:-881306756,93850d2e80115010af9ac418124c9fcb:-192239976,f9654d2e67115010e9ece4e8b34a4797:-1887920958,5d15c52ef0115010852efab06f1b8552:1575069146,09e4c12ee2115010bced3b90e68ffeaf:1772021434,697445eaea115010fe7ace7748db901e:687771858,4b2445a29711501052a32fae03c9e3cf:567108785,01092ce2cadd1010ff09eb97f1cda2d9:-977010821,8dc8e8e2e5dd10106d4fb629cefdeb07:1817078017,4eb868a267dd1010362db1c583db1904:-1746696114,9948e4a294dd10109d728a354dc5b811:676914220,d55668224fdd1010886eb94207c626ad:563514679</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Asdf">73a6c56edb115010ede47b823996197c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 10:01:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1145ae910e3a4bfe8376fcc0d3870544</sys_id>
+        <sys_metadata>b3162022dbdd1010ede47b8239961938</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asdf</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_b3162022dbdd1010ede47b8239961938</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b3162022dbdd1010ede47b8239961938">a9e5c16edb115010ede47b823996197a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 10:01:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
